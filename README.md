@@ -34,3 +34,8 @@ yumiko@debian:~$ ./build-project.sh
 ```bash
 yumiko@debian:~$ echo "The best is yet to come."   
 ```
+
+```bash
+yumiko@debian:~$ echo "LinkedIn: https://www.linkedin.com/in/yumiko-atae"  
+yumiko@debian:~$ echo "Email: contatojacquelineatae@gmail.com"  
+```
