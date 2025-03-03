@@ -16,26 +16,27 @@ yumiko@debian:~$ echo "Talk is cheap. Show me the code" - Linus Torvalds
 </div>
 
 ```bash
-[INFO] Initializing environment for growth  
-[OK] Current focus: Linux and Git  
-[BUILD] Exploring AWS, Docker, Kubernetes, Terraform, and Ansible  
-[LOG] Progressing steadily... 🚀 
+[INFO] Initializing environment for engineering excellence  
+[OK] Current focus: Rust, Linux, and Git  
+[BUILD] Mastering AWS and SQL for scalable solutions  
+[LOG] Engineering robust and efficient software... ⚙️ 
 ```
 
 ```bash
-yumiko@debian:~$ sudo apt-get install -y linux git docker kubectl terraform ansible aws-cli
-> Essential tools for the journey ahead
+yumiko@debian:~$ sudo apt-get install -y linux git rustc cargo aws-cli postgresql-client
+> Equipping the toolkit for modern development
 
-yumiko@debian:~$ ./build-project.sh
-> Status: Under Construction 🚧
-> Crafting powerful solutions step by step...
+yumiko@debian:~$ cargo new next-gen-app && cd next-gen-app
+> Project initialized with Rust — Let's build something great! 🚀
+
+yumiko@debian:~$ psql -U yumiko -d engineering_db
+> Connected to database. Data-driven decisions ahead! 📊
 ```
 
 ```bash
-yumiko@debian:~$ echo "The best is yet to come."   
+yumiko@debian:~$ echo "Less talking, more coding. Secure, scalable, and efficient."   
 ```
 
 ```bash
 yumiko@debian:~$ echo "LinkedIn: https://www.linkedin.com/in/yumiko-atae"  
 yumiko@debian:~$ echo "Email: contatojacquelineatae@gmail.com"  
-```
