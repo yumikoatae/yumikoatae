@@ -11,32 +11,31 @@
 
 <div align="center">
   <pre>
-yumiko@debian:~$ echo "Talk is cheap. Show me the code" - Linus Torvalds
+yumiko@portugal:~$ echo "Talk is cheap. Show me the code." — Linus Torvalds
   </pre>
 </div>
 
 ```bash
-[INFO] Initializing environment for engineering excellence  
-[OK] Current focus: Rust, Linux, and Git  
-[BUILD] Mastering AWS and SQL for scalable solutions  
-[LOG] Engineering robust and efficient software... ⚙️ 
-```
+[INFO] Booting international edition...
+[USER] Yumiko Atae — Software Engineer focused on CRM, Automation & API Integration  
+[EXPERIENCE] HubSpot • AWS • REST APIs • Python • Node.js • Git • SQL  
 
-```bash
-yumiko@debian:~$ sudo apt-get install -y linux git rustc cargo aws-cli postgresql-client
-> Equipping the toolkit for modern development
+yumiko@portugal:~$ sudo apt-get install -y hubspot nodejs python3 aws-cli postgresql-client
+> Installing tools for efficient, data-driven, cloud-integrated systems
 
-yumiko@debian:~$ cargo new next-gen-app && cd next-gen-app
-> Project initialized with Rust — Let's build something great! 🚀
+yumiko@portugal:~$ node crm_integration.js
+> Connected to HubSpot. Automating data flow and optimizing business ops. 🚀
 
-yumiko@debian:~$ psql -U yumiko -d engineering_db
-> Connected to database. Data-driven decisions ahead! 📊
-```
+yumiko@portugal:~$ echo "From CRM automation to cloud integration — bridging tech and business."
+> Output: ✅ Streamlined workflows | ✅ Happy clients | ✅ Scalable solutions
 
-```bash
-yumiko@debian:~$ echo "Less talking, more coding. Secure, scalable, and efficient."   
-```
+yumiko@portugal:~$ psql -U yumiko -d engineering_db
+> Insight-driven automation starts with clean, connected data. 📊
 
-```bash
-yumiko@debian:~$ echo "LinkedIn: https://www.linkedin.com/in/yumiko-atae"  
-yumiko@debian:~$ echo "Email: contatojacquelineatae@gmail.com"  
+yumiko@portugal:~$ echo "Always learning. Always building. With empathy and efficiency."   
+
+
+yumiko@portugal:~$ echo "LinkedIn: https://www.linkedin.com/in/yumiko-atae"  
+yumiko@portugal:~$ echo "Email: yumikoatae.work@gmail.com"   
+
+
